@@ -1,5 +1,4 @@
-# STDE-HGL: Diffusion-Enhanced with Semantic Transitions
-Heterogeneous Graph Learning
+# STDE-HGL: Diffusion-Enhanced with Semantic Transitions Heterogeneous Graph Learning
 
 ![BGCL-KDE](./framework.png)
 
