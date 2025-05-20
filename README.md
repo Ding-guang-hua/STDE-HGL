@@ -26,8 +26,8 @@ We develop our codes in the following environment or install all dependencies li
 
 |      |     Node      | Metapath |        |      Node       | Metapath |
 | :--: | :-----------: | :------: | :----: | :-------------: | :------: |
-| DBLP |  Author:4057  |   APA    | AMiner |   paper:6564    |   PAP    |
-|      |  Paper:14328  |  APCPA   |        |  author:13329   |   PRP    |
+| DBLP |  Author:4057  |   APA    | AMiner |   Paper:6564    |   PAP    |
+|      |  Paper:14328  |  APCPA   |        |  Author:13329   |   PRP    |
 |      | Conference:20 |  APTPA   |        | Reference:35890 |   POS    |
 |      |   Term:7723   |          |        |                 |          |
 
