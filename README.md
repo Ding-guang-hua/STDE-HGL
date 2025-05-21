@@ -1,6 +1,6 @@
 # STDE-HGL: Diffusion-Enhanced with Semantic Transitions Heterogeneous Graph Learning
 
-![BGCL-KDE](./framework.png)
+![STDE-HGL](./framework.png)
 
  [DiffGraph] The predecessor of this work: [**DiffGraph: Heterogeneous Graph Diffusion Model**](https://dl.acm.org/doi/10.1145/3701551.3703590) can be found [here](https://github.com/HKUDS/DiffGraph).
 
